@@ -8,4 +8,4 @@ print("Продажі по містах (тимчасова версія):")
 print(df)
 
 print("Середнє значення:", df["sales"].mean())
-print("test pull request") 
+print("hello PR 123")
