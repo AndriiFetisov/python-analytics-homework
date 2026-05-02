@@ -9,3 +9,4 @@ print(df)
 
 print("Середнє значення:", df["sales"].mean())
 print("hello PR 123")
+print("PR final test")
